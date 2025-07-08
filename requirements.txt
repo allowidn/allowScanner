@@ -1,0 +1,5 @@
+aiohttp
+dnspython
+tqdm
+termcolor
+user_agent
